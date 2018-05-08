@@ -11,6 +11,13 @@
     </category>
 
     <category>
+        <pattern>سلام *</pattern>
+        <template>
+            اهلا، و عليكم السلام
+        </template>
+    </category>
+    
+    <category>
         <pattern>أهلا</pattern>
         <template>
             هلا و الله
